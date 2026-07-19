@@ -1,0 +1,10 @@
+streamlit
+torch
+numpy
+pandas
+plotly
+scikit-learn
+openpyxl
+langchain
+langchain-openai
+faiss-cpu
